@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'quotes.apps.QuotesConfig',
 
     'rest_framework',
+    'decouple',
 ]
 
 MIDDLEWARE = [
